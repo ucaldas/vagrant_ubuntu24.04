@@ -7,7 +7,7 @@ Isso deve baixar a imagem do Ubuntu e fazer  instalação automaticamente.
 A  configuração está redirecionando as portas internas para o Localhost
 
 Caso não tiver provisionado, efetuar esse comando:
-  # vagrant prosision
+  # vagrant provision
 
 Para entrar no servidor:
   # vagrant ssh
